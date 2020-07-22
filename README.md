@@ -1,7 +1,9 @@
 # boston-airbnb
 This repo is about the analysis of Boston Airbnb dataset. We can find the prices and the location that are important factor for deciding the best fit for users.
 
- 
+### NOTE <a name ='note'></a>
+Zip file has csv file needed for this notebook
+
 ### Introduction <a name="dataset-introduction"></a>
 Data for analyzing trends in Boston's Airbnb is available for free on Kaggle.com.
 
